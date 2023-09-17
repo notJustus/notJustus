@@ -15,6 +15,11 @@ I am a Computer Science student in his last bachelor's year. On my profile, you 
 
 <details>
   <summary>Snake Game in Scala</summary> 
+  <h3>Key Learnings</h3>
+  <ul>
+    <li>Handling Immutable Data</li>
+  </ul>
+  <a href="https://github.com/notJustus/OOFP_snake">Link to the repository</a>
 </details>
 
 ## 👨🏼‍💻 &nbsp;Personal Projects
