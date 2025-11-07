@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Science student in his last bachelor's year. On my profile, you can find various projects I did during my university degree and in my free time. Check them out!
+I am a Artificial Intelligence student in his last master's year. On my profile, you can find various projects I did during my university degree and in my free time. Check them out!
 
 ## 🎓 &nbsp;University Projects
 <details>
